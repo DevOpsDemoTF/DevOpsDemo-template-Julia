@@ -1,0 +1,15 @@
+Dockerfile
+.gitlab-ci.yml
+.gitlab/
+api_tests/
+chart/
+.dockerignore
+.git/
+.gitignore
+
+# from .gitignore
+.idea/
+.vscode/
+test-results.xml
+.local-*
+AppBin/

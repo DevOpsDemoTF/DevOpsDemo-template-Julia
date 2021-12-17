@@ -1,0 +1,5 @@
+.idea/
+.vscode/
+test-results.xml
+.local-*
+AppBin/

@@ -1,0 +1,11 @@
+name = "App"
+uuid = "cce5736b-739f-4649-a733-ffc83526b29b"
+authors = ["Adam Szalkowski <adam@szalkowski.de>"]
+version = "0.1.0"
+
+[deps]
+Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+Memento = "f28f55f0-a522-5efc-85c2-fe41dfb9b2d9"
+Sockets = "6462fe0b-24de-5631-8697-dd941f90decc"
