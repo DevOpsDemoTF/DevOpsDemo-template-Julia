@@ -14,12 +14,12 @@ Micro-service template to use with my
 - State passed to API handlers
 - Logging in JSON
 - Health-check endpoint
+- Unit tests with JUnit-compatible output
 - API/integration tests with docker-compose
 
 ### TODO
 
 - Prometheus metrics
-- Unit tests with JUnit-compatible output
 
 ### Links
 
